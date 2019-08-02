@@ -86,7 +86,7 @@ author:
   bio              : "PhD Student at Harvard/MIT working on making deep learning interpretable."
   location         : "Cambridge, MA, USA."
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QY5OAIMAAAAJ&hl=en&oi=ao"
   email            : "smadan@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       : "spandan-madan"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
