@@ -15,7 +15,7 @@ Before this, I was research assistant at MIT working with Fredo Durand on unders
 
 Apart from research, I am extremely passionate about teaching, and spend significant time writing tutorials/giving lectures in and around Boston. Click on the "Talks" or "Tutorials" section above for those. Actively seeking collaborators for side projects. This includes tutorials, and other tools I am interested in building. If interested, please drop me a mail.
 
-![](/images/experience.png)
+![](/personal/images/experience.png)
 
 For more info
 ------
