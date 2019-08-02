@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Spandan Madan"
   avatar           : "headshot.jpg"
-  bio              : "PhD Student at Harvard/MIT on making deep learning interpretable."
+  bio              : "PhD Student at Harvard/MIT working on making deep learning interpretable."
   location         : "Cambridge, MA, USA."
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=QY5OAIMAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "smadan@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "spandan-madan"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
