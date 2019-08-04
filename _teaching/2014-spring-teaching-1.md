@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/cs109b
 venue: "Harvard University, USA"
-date: Fall 2018
+date: 2017-08-01
 location: "Cambridge, MA (USA)"
 ---
 
