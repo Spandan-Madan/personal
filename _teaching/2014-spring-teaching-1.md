@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Advanced Topics in Data Science (CS109B)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate Course"
+permalink: /teaching/cs109b
+venue: "Harvard University, USA"
+date: Fall 2018
+location: "Cambridge, MA (USA)"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Designed the final class project for the class. An extended version of that original project was made available as a tutorial here - https://github.com/Spandan-Madan/DeepLearningProject
